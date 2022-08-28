@@ -5,33 +5,33 @@ global.owner = ['6283893144467'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
-  amel: 'https://melcanz.com',
-  bx: 'https://bx-hunter.herokuapp.com',
-  rey: 'https://api.reysekha.my.id',
-  dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto.xyz',
-  neoxr: 'https://api.neoxr.eu.org',
   nrtm: 'https://nurutomo.herokuapp.com',
-  pencarikode: 'https://api.chipa.xyz',
-  waifupics: 'https://api.waifu.pics',
   xteam: 'https://api.xteam.xyz',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  bcil: 'https://75.119.137.248:21587',
+  neoxr: 'https://api.neoxr.eu.org/',
   zeks: 'https://api.zeks.me',
+  gimez: 'https://masgimenz.my.id/',
+  melcanz: 'https://melcanz.com',
+  pencarikode: 'https://pencarikode.xyz',
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  restapi: 'https://x-restapi.herokuapp.com'
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'trial',
-  'https://api.reysekha.my.id': 'apirey',
-  'https://bx-hunter.herokuapp.com': 'Ikyy69',
-  'https://hardianto.xyz': 'hardianto',
-  'https://api.neoxr.eu.org': 'yntkts',
-  'https://api.chipa.xyz': 'pais',
-  'https://api.xteam.xyz': 'apikeymu',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.xteam.xyz': 'apikeyaine',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
+  'https://api.zeks.me': 'apikeyaine',
+  'https://pencarikode.xyz': 'pais',
+  'https://melcanz.com': 'ZZBk7EBb',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
+  'https://x-restapi.herokuapp.com': 'BETA'
 }
 
 // Sticker WM
 global.packname = 'TayoBotz'
-global.author = 'K'
+global.author = ''
 
 global.wm = '© Tayo the little Bus'
 global.wait = '_*tunggu sedang diproses...*_'
